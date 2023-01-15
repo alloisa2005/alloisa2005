@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente trabajando en Accion Point S.A.<br>👯 Me gustaría colaborar con proyectos de React JS<br>🌱 Aprendiendo React JS y Node JS<br>
+🔭 Actualmente trabajando en CFO Tech<br>👯 Me gustaría colaborar con proyectos de React JS<br>🌱 Aprendiendo React JS y Node JS<br>
 
 
 ## 🌐 Socials:
